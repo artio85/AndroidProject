@@ -56,6 +56,9 @@ public class MainActivity extends AppCompatActivity{
             case R.id.menu_sort:
                 Toast.makeText(MainActivity.this , "Вы выбрали в меню поле " + getString(R.string.menu_sort) , Toast.LENGTH_SHORT).show();
                 break;
+            case R.id.menu_newWords:
+                Toast.makeText(MainActivity.this , "Вы выбрали в меню поле " + getString(R.string.menu_newWords) , Toast.LENGTH_SHORT).show();
+                break;
         }
 
         return super.onOptionsItemSelected(item);
