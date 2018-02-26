@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="button_send" translatable="false">SenD</string>
+    <string name="button_new" translatable="false">new</string>
+    <string name="button3" translatable="false">button3</string>
+    <string name="write_text" translatable="false">Write text here</string>
+    <string name="show_text" translatable="false">Your text</string>
+    <string name="menu_settings" translatable="false">Settings</string>
+    <string name="menu_list" translatable="false">List</string>
+    <string name="menu_sort" translatable="false">Sort</string>
+</resources>
